@@ -1,6 +1,6 @@
 import React from 'react';
 import Interactive from 'react-interactive';
-import { HashLink as Link } from 'react-router-hash-link';
+import { Link } from 'react-router-dom';
 import { Li, linkStyle, childLinkStyle } from './style';
 
 function Home() {

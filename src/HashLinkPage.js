@@ -1,6 +1,6 @@
 import React, { PropTypes } from 'react';
 import Interactive from 'react-interactive';
-import { HashLink as Link } from 'react-router-hash-link';
+import { Link } from 'react-router-dom';
 import objectAssign from 'object-assign';
 import { Li, linkStyle } from './style';
 
