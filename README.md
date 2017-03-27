@@ -5,4 +5,4 @@ $ git clone -b browser-router-link https://github.com/rafrex/react-router-hash-l
 $ npm install
 $ npm start
 ```
-The site will be available on port `80080`
+The site will be available on port `8080`
